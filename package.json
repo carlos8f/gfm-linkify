@@ -1,6 +1,6 @@
 {
   "name": "gfm-linkify",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "linkify repository references in github-flavored markdown text, such as sha1, user/repo@sha1, #issue, etc",
   "main": "index.js",
   "dependencies": {},
